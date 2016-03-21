@@ -19,7 +19,9 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"dfsdkfdfjhdskjhfjsadhfdhf");
-    
+    NSLog(@"dfsdkfdfjhdskjhfjsadhfdhf");
+    NSLog(@"dfsdkfdfjhdskjhfjsadhfdhf");
+
 }
 
 - (void)didReceiveMemoryWarning {
